@@ -1,0 +1,10 @@
+C:\Users\elev\Documents\Visual Studio 2017\Projects\UDP_Server\UDP_Server\bin\Debug\UDP_Server.exe.config
+C:\Users\elev\Documents\Visual Studio 2017\Projects\UDP_Server\UDP_Server\bin\Debug\UDP_Server.exe
+C:\Users\elev\Documents\Visual Studio 2017\Projects\UDP_Server\UDP_Server\bin\Debug\UDP_Server.pdb
+C:\Users\elev\Documents\Visual Studio 2017\Projects\UDP_Server\UDP_Server\obj\Debug\UDP_Server.csprojResolveAssemblyReference.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\UDP_Server\UDP_Server\obj\Debug\UDP_Server.Server.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\UDP_Server\UDP_Server\obj\Debug\UDP_Server.Properties.Resources.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\UDP_Server\UDP_Server\obj\Debug\UDP_Server.csproj.GenerateResource.Cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\UDP_Server\UDP_Server\obj\Debug\UDP_Server.csproj.CoreCompileInputs.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\UDP_Server\UDP_Server\obj\Debug\UDP_Server.exe
+C:\Users\elev\Documents\Visual Studio 2017\Projects\UDP_Server\UDP_Server\obj\Debug\UDP_Server.pdb
